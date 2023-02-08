@@ -1,3 +1,3 @@
-import { solutionA } from "./solutions/expedition.js";
+import { findMinMaxAvg } from "./src/minmaxavg/minmaxavg.js";
 
-console.log(solutionA("./src/expedition/inputs/sample_input.txt"));
+findMinMaxAvg("./src/minmaxavg/inputs/list4.txt");
