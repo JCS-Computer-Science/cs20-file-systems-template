@@ -1,0 +1,94 @@
+{
+	"stats": [
+		{
+			"player": "Derrick Henry",
+			"id": 17959,
+			"games": [
+				{
+					"week": 3,
+					"totalYards": 225,
+					"receptions": 12,
+					"touchdowns": 3,
+					"fumbles": 0,
+					"fantasyPoints": 52.5
+				},
+				{
+					"week": 5,
+					"totalYards": 207,
+					"receptions": 5,
+					"touchdowns": 5,
+					"fumbles": 0,
+					"fantasyPoints": 55.7
+				},
+				{
+					"week": 12,
+					"totalYards": 184,
+					"receptions": 7,
+					"touchdowns": 0,
+					"fumbles": 2,
+					"fantasyPoints": 21.4
+				}
+			]
+		},
+		{
+			"player": "Christian McCaffrey",
+			"id": 18877,
+			"games": [
+				{
+					"week": 4,
+					"totalYards": 105,
+					"receptions": 8,
+					"touchdowns": 1,
+					"fumbles": 0,
+					"fantasyPoints": 24.5
+				},
+				{
+					"week": 13,
+					"totalYards": 141,
+					"receptions": 8,
+					"touchdowns": 1,
+					"fumbles": 0,
+					"fantasyPoints": 28.1
+				},
+				{
+					"week": 15,
+					"totalYards": 134,
+					"receptions": 6,
+					"touchdowns": 1,
+					"fumbles": 0,
+					"fantasyPoints": 25.4
+				}
+			]
+		},
+		{
+			"player": "Jonathan Taylor",
+			"id": 21682,
+			"games": [
+				{
+					"week": 1,
+					"totalYards": 183,
+					"receptions": 4,
+					"touchdowns": 1,
+					"fumbles": 0,
+					"fantasyPoints": 28.3
+				},
+				{
+					"week": 8,
+					"totalYards": 79,
+					"receptions": 0,
+					"touchdowns": 0,
+					"fumbles": 1,
+					"fantasyPoints": 5.9
+				},
+				{
+					"week": 11,
+					"totalYards": 98,
+					"receptions": 3,
+					"touchdowns": 1,
+					"fumbles": 1,
+					"fantasyPoints": 16.8
+				}
+			]
+		}
+	]
+}

@@ -1,6 +1,8 @@
+# 2. Expedition
+
 Adapted from [Advent of Code](https://adventofcode.com/2022/day/1)
 
-# Part A
+## Part A
 
 The jungle must be too overgrown and difficult to navigate in vehicles or access from the air; your expedition traditionally goes on foot. As your boats approach land, you begin taking inventory of your supplies. One important consideration is food - in particular, the number of Calories each wagon is carrying (your puzzle input).
 
@@ -34,9 +36,9 @@ In case your crew gets hungry and need extra snacks, they need to know which wag
 
 Find the wagon carrying the most Calories. How many total Calories is that wagon carrying?
 
-## Requirements
+### Requirements
 
-### expedition.js
+#### expedition.js
 
 - exports a function `readInput(filePath)`
   - readInput reads the specified file and returns an array
@@ -53,7 +55,7 @@ Find the wagon carrying the most Calories. How many total Calories is that wagon
 - exports a function `solutionA(filePath)`
   - should use `readInput`, `sumWagons`, and `findLargest` to return the answer to part A
 
-# Part B
+## Part B
 
 By the time you calculate the answer to the question, you already realized that the wagon carrying the most Calories of food might eventually run out of snacks.
 
@@ -63,9 +65,9 @@ In the example above, the top three wagons are the fourth wagon (with `24000` Ca
 
 Find the top three wagons carrying the most Calories. How many Calories are those wagon carrying in total?
 
-## Requirements
+### Requirements
 
-### expedition.js
+#### expedition.js
 
 - exports a function `findThreeLargest(wagonArr)`
   - parameter `wagonArr` will be an array of the total calories carried by each wagon (the result of `sumWagons`)
